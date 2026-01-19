@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "name": "AtomMatrix113 - Matrix Rain Effects",
+  "category": "Entertainment",
+  "author": "Coreymillia",
+  "description": "113 Matrix Rain Screensaver Effects for M5Stack Atom S3 - Ported from Core2 with full 128x128 LCD optimization and boot button controls",
+  "website": "https://github.com/Coreymillia",
+  "compatible_device": [
+    "M5STACK_ATOMS3"
+  ],
+  "platform": [
+    "espressif32"
+  ],
+  "language": [
+    "en"
+  ],
+  "language_pack": [],
+  "created_at": "2026-01-19",
+  "updated_at": "2026-01-19",
+  "versions": [
+    {
+      "version": "1.0",
+      "minFirm": "2.0.0",
+      "maxFirm": "99.99.99",
+      "published_at": "2026-01-19",
+      "zipball_url": "AtomMatrix113-v1.0-MERGED.bin",
+      "firmware": [
+        {
+          "path": "AtomMatrix113-v1.0-MERGED.bin",
+          "address": "0x00000",
+          "label": "AtomMatrix113 v1.0 (MERGED)",
+          "description": "Complete firmware with bootloader, partitions, and application merged into single binary file",
+          "size": 555856
+        }
+      ]
+    }
+  ],
+  "feature": [
+    "113 Matrix Rain Variations",
+    "Boot Button Control",
+    "Auto-scroll Mode",
+    "128x128 LCD Optimized",
+    "Multiple Fonts Support", 
+    "Micro-font Effects",
+    "Fireworks Effects",
+    "Fracture Effects",
+    "Plasma Effects",
+    "Tide Effects"
+  ],
+  "control": [
+    "Boot Button Press: Next effect",
+    "Boot Button Hold (1s): Toggle auto-scroll",
+    "Auto-scroll: 30 seconds per effect"
+  ],
+  "related_documents": [
+    {
+      "title": "README.md",
+      "url": "README.md"
+    }
+  ]
+}
