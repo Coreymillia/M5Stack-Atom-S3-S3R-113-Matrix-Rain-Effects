@@ -2,7 +2,7 @@
 
 **113 Stunning Matrix Rain Effects** optimized for the M5Stack Atom S3's 128x128 LCD display! 
 
-This is a port of the successful Core2Matrix113 project, adapted specifically for the compact Atom S3 device with simplified boot button controls.
+This is a port of the successful Core2Matrix113 project, adapted specifically for the compact Atom S3 device with auto scroll, no controls. 
 
 ## 🚀 **Features**
 
@@ -21,9 +21,7 @@ This is a port of the successful Core2Matrix113 project, adapted specifically fo
 
 ## 🎮 **Controls**
 
-### **Boot Button (Single Button on Atom S3)**:
-- **Short Press**: Advance to next matrix effect
-- **Long Press (1+ seconds)**: Toggle auto-scroll mode on/off
+Unable to get any controls. 
 
 ### **Auto-Scroll Mode**:
 - When enabled: Automatically cycles through all 113 effects
